@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Product>
+    <Make>WD</Make>
+    <Model>Blue</Model>
+    <PartNumber>WD10EZEX</PartNumber>
+    <Price>$109.99</Price>
+    <Manufacturer>Western Digital</Manufacturer>
+    <ManufacturerID>00000001</ManufacturerID>
+    <ItemName>Hard Drive</ItemName>
+    <ItemType>1000 GB desktop</ItemType>
+    <Condition>New</Condition>
+    <SerialNumber>771874</SerialNumber>
+    <Location>Section 3 Unit 14</Location>
+    <ExpirationDate>2018-06-01T00:00:00-07:00</ExpirationDate>
+    <Description>1 TB WD Blue Internal PC Hard Drive</Description>
+  </Product>
+  <Product>
+    <Make>WD</Make>
+    <Model>Red</Model>
+    <PartNumber>WD30EFRX</PartNumber>
+    <Price>$199.99</Price>
+    <Manufacturer>Western Digital</Manufacturer>
+    <ManufacturerID>00000001</ManufacturerID>
+    <ItemName>Hard Drive</ItemName>
+    <ItemType>3 TB</ItemType>
+    <Condition>New</Condition>
+    <SerialNumber>248677350</SerialNumber>
+    <Location>Section 3 Unit 15</Location>
+    <ExpirationDate>2016-03-15T00:00:00-07:00</ExpirationDate>
+    <Description>3 TB WD Red NAS Hard Drive</Description>
+  </Product>
+  <Product>
+    <Make>Seagate</Make>
+    <Model>Backup Plus</Model>
+    <PartNumber>STDT3000100</PartNumber>
+    <Price>$129.99</Price>
+    <Manufacturer>Seagate</Manufacturer>
+    <ManufacturerID>00000002</ManufacturerID>
+    <ItemName>Hard Drive</ItemName>
+    <ItemType>3 TB Desktop</ItemType>
+    <Condition>New</Condition>
+    <SerialNumber>4081025569213602</SerialNumber>
+    <Location>Section 3 Unit 15</Location>
+    <ExpirationDate>2017-11-01T00:00:00-07:00</ExpirationDate>
+    <Description>3 TB External PC Hard Drive with 200 GB of Cloud Storage.</Description>
+  </Product>
+  <Product>
+    <Make>Toshiba</Make>
+    <Model>Canvio Basic</Model>
+    <PartNumber>HDTB310XK3AA</PartNumber>
+    <Price>$99.99</Price>
+    <Manufacturer>Toshiba</Manufacturer>
+    <ManufacturerID>00000003</ManufacturerID>
+    <ItemName>Hard Drive</ItemName>
+    <ItemType>1 TB Portable</ItemType>
+    <Condition>New</Condition>
+    <SerialNumber>624379952</SerialNumber>
+    <Location>Section 3 Unit 14</Location>
+    <ExpirationDate>2013-02-16T00:00:00-08:00</ExpirationDate>
+    <Description>1 TB Toshiba Canvio Basic Portable Hard Drive</Description>
+  </Product>
+  <Product>
+    <Make>Seagate</Make>
+    <Model>Skyhawk</Model>
+    <PartNumber>ST16000VE000</PartNumber>
+    <Price>$389.99</Price>
+    <Manufacturer>Seagate</Manufacturer>
+    <ManufacturerID>00000002</ManufacturerID>
+    <ItemName>Hard Drive</ItemName>
+    <ItemType>16 TB Internal</ItemType>
+    <Condition>New</Condition>
+    <SerialNumber>4081025883400159</SerialNumber>
+    <Location>Section 3 Unit 15</Location>
+    <ExpirationDate>2022-05-14T00:00:00-07:00</ExpirationDate>
+    <Description>Seagate SkyHawk AI ST16000VE000 - hard drive - 16 TB - SATA 6Gb/s</Description>
+  </Product>
+</NewDataSet>

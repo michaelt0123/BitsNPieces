@@ -1,0 +1,16 @@
+c:\users\user\documents\visual studio 2010\Projects\PGIS\PGIS\obj\x86\Debug\BNPPartsCatalog.frmBNPPartsCatalog.resources
+c:\users\user\documents\visual studio 2010\Projects\PGIS\PGIS\obj\x86\Debug\BNPPartsCatalog.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\PGIS\PGIS\obj\x86\Debug\BNPPartsCatalog.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\PGIS\PGIS\bin\Debug\PGIS.exe
+c:\users\user\documents\visual studio 2010\Projects\PGIS\PGIS\bin\Debug\PGIS.pdb
+c:\users\user\documents\visual studio 2010\Projects\PGIS\PGIS\obj\x86\Debug\PGIS.exe
+c:\users\user\documents\visual studio 2010\Projects\PGIS\PGIS\obj\x86\Debug\PGIS.pdb
+C:\Users\micha\Desktop\PGIS\PGIS\bin\Debug\PGIS.exe
+C:\Users\micha\Desktop\PGIS\PGIS\bin\Debug\PGIS.pdb
+C:\Users\micha\Desktop\PGIS\PGIS\obj\x86\Debug\BNPPartsCatalog.csprojAssemblyReference.cache
+C:\Users\micha\Desktop\PGIS\PGIS\obj\x86\Debug\BNPPartsCatalog.frmBNPPartsCatalog.resources
+C:\Users\micha\Desktop\PGIS\PGIS\obj\x86\Debug\BNPPartsCatalog.Properties.Resources.resources
+C:\Users\micha\Desktop\PGIS\PGIS\obj\x86\Debug\BNPPartsCatalog.csproj.GenerateResource.cache
+C:\Users\micha\Desktop\PGIS\PGIS\obj\x86\Debug\BNPPartsCatalog.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\PGIS\PGIS\obj\x86\Debug\PGIS.exe
+C:\Users\micha\Desktop\PGIS\PGIS\obj\x86\Debug\PGIS.pdb
